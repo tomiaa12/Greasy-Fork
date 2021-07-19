@@ -16,7 +16,7 @@
 
 // @icon         https://www.baidu.com/cache/icon/favicon.ico
 // @grant        none
-'@require    File://F:\WEB\Greasy-Fork\baidu.js'
+
 // ==/UserScript==
 ;(() => {
   console.clear();
