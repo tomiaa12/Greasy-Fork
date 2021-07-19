@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         百度纯净版
+// @name         百度纯净版-持续更新中...
 // @namespace    http://tampermonkey.net/
 // @description  去除百度搜索多余信息,纯净
 // @version      0.1
